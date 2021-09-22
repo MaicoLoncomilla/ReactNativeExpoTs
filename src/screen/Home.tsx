@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from 'react-native'
 const Home = (): JSX.Element => {
   return (
     <View style={styles.container}>
-      <Text>Screen Home</Text>
+      <Text>Expo Home</Text>
     </View>
   )
 }
