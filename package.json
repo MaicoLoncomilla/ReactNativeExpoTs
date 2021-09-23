@@ -9,6 +9,7 @@
     "lint": "eslint \"**/*.{ts,tsx}\" --format table",
     "format": "prettier --write ./App.tsx src",
     "type-check": "tsc --pretty",
+    "prepare": "husky install",
     "pre-commit": "lint-staged"
   },
   "dependencies": {
