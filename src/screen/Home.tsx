@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from 'react-native'
 const Home = (): JSX.Element => {
   return (
     <View style={styles.container}>
-      <Text>Expo Home</Text>
+      <Text>Expo React V17.0.2</Text>
     </View>
   )
 }
